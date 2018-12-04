@@ -6,7 +6,7 @@ for others (projects, technologies, ...) [click HERE](#Blockchains-with-no-coin)
 
 | CryptoCurrency | Name | Homepage | Repository |
 |:---:|:---:|---|---|
-| Bitcoin | Bitcoin | https://bitcoincore.org/en/about/ | https://github.com/bitcoin/bitcoin/ |
+| Bitcoin | Bitcoin | https://bitcoincore.org/ | https://github.com/bitcoin/bitcoin/ |
 | BOScoin | BOSCoin| https://boscoin.io/ | https://github.com/bosnet/ |
 | EOS     | EOS | https://eos.io/ | https://github.com/EOSIO/ |
 | XRP | Ripple | https://ripple.com/ | https://github.com/ripple |
