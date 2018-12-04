@@ -16,7 +16,7 @@ for others (projects, technologies, ...) [click HERE](#Blockchains-with-no-coin)
 
 ### Blockchains with no coin
 
-Blockchain and related technologies, projects with source code repository.
+Blockchain and related technologies, projects, researches with source code repository.
 
 | Blockchain ... | Homepage | Repository |
 |:---:|---|---|
