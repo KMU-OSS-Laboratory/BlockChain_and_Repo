@@ -26,7 +26,9 @@ Blockchain and related technologies, projects, researches with source code repos
 
 ### Blockchain Resources
 
-* [Awesome Blockchain](https://github.com/igorbarinov/awesome-blockchain)
+* [Awesome Blockchain #1](https://github.com/igorbarinov/awesome-blockchain)
+* [Awesome Blockchain #2](https://github.com/imbaniac/awesome-blockchain)
+* [Awesome Blockchains](https://github.com/openblockchains/awesome-blockchains)
 
 ### Copyright Notice
 
