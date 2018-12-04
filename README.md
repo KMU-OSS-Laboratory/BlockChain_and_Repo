@@ -2,11 +2,12 @@
 
 ### Blockchains with tradable coin. for others click [HERE](#Blockchains-with-no-coin)
 
-| CryptoCurrency | Homepage | Repository |
-|:---:|---|---|
-| BITCOIN | https://bitcoincore.org/en/about/ | https://github.com/bitcoin/bitcoin/ |
-| BOSCOIN | https://boscoin.io/ | https://github.com/bosnet/ |
-| EOS     | https://eos.io/ | https://github.com/EOSIO/ |
+| CryptoCurrency | Name | Homepage | Repository |
+|:---:|:---:|---|---|
+| Bitcoin | Bitcoin | https://bitcoincore.org/en/about/ | https://github.com/bitcoin/bitcoin/ |
+| BOScoin | BOSCoin| https://boscoin.io/ | https://github.com/bosnet/ |
+| EOS     | EOS | https://eos.io/ | https://github.com/EOSIO/ |
+| XRP | Ripple | https://ripple.com/ | https://github.com/ripple |
 
 ### Blockchains with no coin
 
