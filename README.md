@@ -28,4 +28,4 @@ Authors of this document : [Minsuk Lee](mailto:ykhl1itj@gmail.com) and many othe
 
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" width="80px"></img> 
 
-Under the [CC-BY-NC-SA 4.0 (Creative Commons License Attribution-NonCommercial-ShareAlike 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) license terms, you are free to share (copy and redistribute the material in any medium or format), adapt (remix, transform, and build upon the material).
+Under the [CC-BY-NC-SA 4.0 (Creative Commons License Attribution-NonCommercial-ShareAlike 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) license terms, you are free to share (copy and redistribute the material in any medium or format), adapt (remix, transform, and build upon the material) this document.
