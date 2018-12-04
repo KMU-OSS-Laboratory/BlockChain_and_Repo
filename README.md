@@ -1,6 +1,5 @@
 # List of blockchain mainnets/testnets and their code repositories.
 
-(Alphabetical order)
 | Name | Homepage | Repository |
 |:---:|---|---|
 | BITCOIN | https://bitcoincore.org/en/about/ | https://github.com/bitcoin/bitcoin/ |
