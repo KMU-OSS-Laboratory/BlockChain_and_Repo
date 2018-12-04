@@ -30,6 +30,7 @@ Blockchain and related technologies, projects, researches with source code repos
 * [Awesome Blockchain #2](https://github.com/imbaniac/awesome-blockchain)
 * [Awesome Blockchains](https://github.com/openblockchains/awesome-blockchains)
 
+---
 ### Copyright Notice
 
 Authors of this document : [Minsuk Lee](mailto:ykhl1itj@gmail.com) and many other contributors
