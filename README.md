@@ -5,6 +5,7 @@
 for others (projects, technologies, ...) [click HERE](#Blockchains-with-no-coin)
 
 *alphabetical order*
+
 | CryptoCurrency | Name | Homepage | Repository |
 |:---:|:---:|---|---|
 | ABL | Airbloc | https://airbloc.org | https://github.com/airbloc |
