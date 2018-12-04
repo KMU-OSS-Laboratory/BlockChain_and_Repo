@@ -1,6 +1,8 @@
 ## List of blockchain mainnets/testnets and their code repositories.
 
-### Blockchains with tradable coin. for others click [HERE](#Blockchains-with-no-coin)
+### Blockchains with tradable coin. 
+
+for others (projects, technologies, ...) [click HERE](#Blockchains-with-no-coin)
 
 | CryptoCurrency | Name | Homepage | Repository |
 |:---:|:---:|---|---|
