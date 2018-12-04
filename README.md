@@ -3,6 +3,7 @@
 ### Blockchains with tradable coin. 
 
 for others (projects, technologies, ...) [click HERE](#Blockchains-with-no-coin)
+and [useful link and resources](#Blockchain-resources)
 
 *alphabetical order*
 
@@ -21,6 +22,10 @@ Blockchain and related technologies, projects, researches with source code repos
 | Blockchain ... | Homepage | Repository |
 |:---:|---|---|
 | HyperLedger | https://www.hyperledger.org/ | https://github.com/hyperledger |
+
+### Blockchain Resources
+
+* [Awesome Blockchain](https://github.com/igorbarinov/awesome-blockchain)
 
 ### Copyright Notice
 
