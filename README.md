@@ -1,4 +1,4 @@
-# List of blockchain mainnets/testnets and their code repositories.
+## List of blockchain mainnets/testnets and their code repositories.
 
 | Name | Homepage | Repository |
 |:---:|---|---|
@@ -8,7 +8,7 @@
 
 ### Copyright Notice
 
-Authors of this document : [Minsuk Lee](mailto:ykhl1itj@gmail.com) and many contributors
+Authors of this document : [Minsuk Lee](mailto:ykhl1itj@gmail.com) and many other contributors
 
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" width="80px"></img> 
 
