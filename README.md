@@ -2,8 +2,9 @@
 
 ### Blockchains with tradable coin. 
 
-for others (projects, technologies, ...) [click HERE](#Blockchains-with-no-coin)
-and [useful link and resources](#Blockchain-resources)
+for others (projects, technologies, researches, ...) [click HERE](#Blockchains-with-no-coin)
+
+and for useful link and resources [click HERE](#Blockchain-resources)
 
 *alphabetical order*
 
