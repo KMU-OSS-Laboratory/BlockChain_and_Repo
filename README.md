@@ -10,11 +10,12 @@ and for useful link and resources [click HERE](#Blockchain-resources)
 
 | CryptoCurrency | Name | Homepage | Repository |
 |:---:|:---:|---|---|
-| ABL | Airbloc | https://airbloc.org | https://github.com/airbloc |
+| ABL     | Airbloc | https://airbloc.org | https://github.com/airbloc |
 | Bitcoin | Bitcoin | https://bitcoincore.org/ | https://github.com/bitcoin/bitcoin/ |
-| BOScoin | BOSCoin| https://boscoin.io/ | https://github.com/bosnet/ |
-| EOS     | EOS | https://eos.io/ | https://github.com/EOSIO/ |
-| XRP | Ripple | https://ripple.com/ | https://github.com/ripple |
+| BOScoin | BOSCoin | https://boscoin.io/ | https://github.com/bosnet/ |
+| EOS     | EOS     | https://eos.io/ | https://github.com/EOSIO/ |
+| ICON    | ICON    | https://icon.foundation/ | https://github.com/icon-project |
+| XRP     | Ripple  | https://ripple.com/ | https://github.com/ripple |
 
 ### Blockchains with no coin
 
