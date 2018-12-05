@@ -2,18 +2,18 @@
 
 ### Blockchains with tradable coin. 
 
-for others (projects, technologies, researches, ...) [click HERE](#Blockchains-with-no-coin)
+for other projects, technologies, researches, ... [click HERE](#Blockchains-with-no-coin)
 
-and for useful link and resources [click HERE](#Blockchain-resources)
+and for useful links and blockchanin resources [click HERE](#Blockchain-resources)
 
 *alphabetical order*
 
 | CryptoCurrency | Name | Homepage | Repository |
 |:---:|:---:|---|---|
 | ABL     | Airbloc | https://airbloc.org | https://github.com/airbloc |
-| Bitcoin | Bitcoin | https://bitcoincore.org/ | https://github.com/bitcoin/bitcoin/ |
-| BOScoin | BOSCoin | https://boscoin.io/ | https://github.com/bosnet/ |
-| EOS     | EOS     | https://eos.io/ | https://github.com/EOSIO/ |
+| Bitcoin | Bitcoin | https://bitcoincore.org/ | https://github.com/bitcoin/bitcoin |
+| BOScoin | BOSCoin | https://boscoin.io/ | https://github.com/bosnet |
+| EOS     | EOS     | https://eos.io/ | https://github.com/EOSIO |
 | ICON    | ICON    | https://icon.foundation/ | https://github.com/icon-project |
 | XRP     | Ripple  | https://ripple.com/ | https://github.com/ripple |
 
